@@ -1,1 +1,1 @@
-# Paper-Sequential-OED-using-RL-for-semiconductors
+These are codes I wrote for the examples of the paper "SEQUENTIAL BAYESIAN OPTIMAL EXPERIMENTAL DESIGN USING REINFORCEMENT LEARNING FOR SEMICONDUCTORS". For all codes involving sOED example I took the sOED package of Wanggang Shen: https://github.com/wgshen/sOED. For the semiconductor surrogate code I used the dolfinx package.
